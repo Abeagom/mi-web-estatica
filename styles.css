@@ -14,13 +14,13 @@ body {
 
 /* Estilos para la cabecera */
 header {
-    background-color: #c24e3f;
+    background-color: #3f9765;
     color: white;
-    padding: 20px;
+    padding: 57px;
     text-align: center;
     font-size: 1.5em;
     position: relative;
-}
+  }
 
 header .logo {
     width: 50px;
@@ -38,10 +38,10 @@ header .logo {
 /* Estilos para el menú lateral izquierdo */
 .sidebar {
     width: 20%;
-    background-color: #333;
+    background-color: #3f9765;
     padding: 20px;
     color: white;
-}
+  }
 
 .sidebar ul {
     list-style-type: none;
